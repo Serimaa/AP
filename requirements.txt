@@ -1,385 +1,309 @@
-aiobotocore @ file:///C:/b/abs_74o47svlua/croot/aiobotocore_1680004300264/work
-aiofiles @ file:///C:/b/abs_9ex6mi6b56/croot/aiofiles_1683773603390/work
-aiohttp @ file:///C:/ci_311/aiohttp_1676432932774/work
-aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-aiosqlite @ file:///C:/b/abs_9djc_0pyi3/croot/aiosqlite_1683773915844/work
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-anaconda-anon-usage @ file:///C:/b/abs_f4tsjyl9va/croot/anaconda-anon-usage_1695310457827/work
-anaconda-catalogs @ file:///C:/b/abs_8btyy0o8s8/croot/anaconda-catalogs_1685727315626/work
-anaconda-client==1.12.0
-anaconda-cloud-auth @ file:///C:/b/abs_5cjpnu6wjb/croot/anaconda-cloud-auth_1694462130037/work
-anaconda-navigator @ file:///C:/b/abs_ab00e0_u7e/croot/anaconda-navigator_1695238210954/work
-anaconda-project @ file:///C:/ci_311/anaconda-project_1676458365912/work
-anyio @ file:///C:/ci_311/anyio_1676425491996/work/dist
-appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
-arrow @ file:///C:/ci_311/arrow_1678249767083/work
-astroid @ file:///C:/ci_311/astroid_1678740610167/work
-astropy @ file:///C:/ci_311_rebuilds/astropy_1678996071858/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-async-timeout @ file:///C:/ci_311/async-timeout_1676431518331/work
-atomicwrites==1.4.0
-attrs==23.2.0
-Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
-autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
-Babel @ file:///C:/ci_311/babel_1676427169844/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
-backports.weakref==1.0.post1
-bcrypt @ file:///C:/ci_311/bcrypt_1676435170049/work
-beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-black @ file:///C:/b/abs_620t6ndje8/croot/black_1680737261963/work
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-bokeh @ file:///C:/b/abs_e5qs_0dl2w/croot/bokeh_1690546119144/work
-boltons @ file:///C:/ci_311/boltons_1677729932371/work
-boto3 @ file:///C:/ci_311_rebuilds/boto3_1678997157581/work
-botocore @ file:///C:/ci_311/botocore_1676431559339/work
-Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
-brotlipy==0.7.0
-certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
-cffi @ file:///C:/ci_311/cffi_1676423759166/work
-cfgv==3.4.0
-chardet @ file:///C:/ci_311/chardet_1676436134885/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///C:/ci_311/click_1676433091657/work
-cloudpickle @ file:///C:/b/abs_3796yxesic/croot/cloudpickle_1683040098851/work
-clyent==1.2.2
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
-colorcet @ file:///C:/ci_311/colorcet_1676440389947/work
-comm @ file:///C:/ci_311/comm_1678376562840/work
-conda @ file:///C:/b/abs_3eb7ewgq2c/croot/conda_1694545461647/work
-conda-build @ file:///C:/b/abs_cb65e4e7eh/croot/conda-build_1690382136553/work
-conda-content-trust @ file:///C:/b/abs_e3bcpyv7sw/croot/conda-content-trust_1693490654398/work
-conda-libmamba-solver @ file:///C:/b/abs_5a9xvt2a3k/croot/conda-libmamba-solver_1685032355900/work/src
-conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
-conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
-conda-repo-cli==1.0.41
-conda-token @ file:///Users/paulyim/miniconda3/envs/c3i/conda-bld/conda-token_1662660369760/work
-conda-verify==3.4.2
-conda_index @ file:///C:/ci_311/conda-index_1678297406811/work
-conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
-constantly==15.1.0
-contourpy @ file:///C:/ci_311/contourpy_1676431756017/work
-cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
-cryptography @ file:///C:/b/abs_13590mi9q9/croot/cryptography_1689373706078/work
-cssselect==1.1.0
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-cytoolz @ file:///C:/ci_311/cytoolz_1676436342770/work
-daal4py==2023.1.1
-dash==2.17.0
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-dash-table==5.0.0
-dask @ file:///C:/b/abs_23lvfodys3/croot/dask-core_1686782960052/work
-datashader @ file:///C:/b/abs_59hmlbw_e3/croot/datashader_1689587660211/work
-datashape==0.5.4
-debugpy @ file:///C:/b/abs_c0y1fjipt2/croot/debugpy_1690906864587/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
-dill @ file:///C:/ci_311/dill_1676433323862/work
-distlib==0.3.7
-distributed @ file:///C:/b/abs_7509xfv227/croot/distributed_1686866088894/work
-docstring-to-markdown @ file:///C:/ci_311/docstring-to-markdown_1677742566583/work
-docutils @ file:///C:/ci_311/docutils_1676428078664/work
-entrypoints @ file:///C:/ci_311/entrypoints_1676423328987/work
-et-xmlfile==1.1.0
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-factor-analyzer==0.5.0
-fastjsonschema @ file:///C:/ci_311/python-fastjsonschema_1679500568724/work
-filelock==3.13.1
-flake8 @ file:///C:/ci_311/flake8_1678376624746/work
-Flask @ file:///C:/ci_311/flask_1676436667658/work
-fonttools==4.25.0
-fqdn==1.5.1
-frozenlist @ file:///C:/ci_311/frozenlist_1676428131576/work
-fsspec @ file:///C:/b/abs_07xig1rkra/croot/fsspec_1679418812895/work
-future @ file:///C:/ci_311_rebuilds/future_1678998246262/work
-gensim @ file:///C:/ci_311/gensim_1677743037820/work
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
-greenlet @ file:///C:/ci_311/greenlet_1676436788118/work
-h5py @ file:///C:/ci_311/h5py_1676504676103/work
-HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
-holoviews @ file:///C:/b/abs_13gytsh91v/croot/holoviews_1690480023447/work
-hvplot @ file:///C:/b/abs_2b13wifauw/croot/hvplot_1685998632349/work
-hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
-identify==2.5.31
-idna @ file:///C:/ci_311/idna_1676424932545/work
-imagecodecs @ file:///C:/ci_311_rebuilds/imagecodecs_1678999255423/work
-imageio @ file:///C:/ci_311/imageio_1678373794394/work
-imagesize @ file:///C:/ci_311/imagesize_1676431905616/work
-imbalanced-learn @ file:///C:/b/abs_275a0acaq2/croot/imbalanced-learn_1685025644593/work
-importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
-incremental @ file:///tmp/build/80754af9/incremental_1636629750599/work
-inflection==0.5.1
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-intake @ file:///C:/ci_311_rebuilds/intake_1678999914269/work
-intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
-ipykernel @ file:///C:/ci_311/ipykernel_1678734799670/work
-ipython @ file:///C:/b/abs_d1yx5tjhli/croot/ipython_1680701887259/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
-isoduration==20.11.0
-isort @ file:///tmp/build/80754af9/isort_1628603791788/work
-itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
-itemloaders @ file:///opt/conda/conda-bld/itemloaders_1646805235997/work
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-jaraco.classes @ file:///tmp/build/80754af9/jaraco.classes_1620983179379/work
-jedi @ file:///C:/ci_311/jedi_1679427407646/work
-jellyfish @ file:///C:/ci_311/jellyfish_1676450868911/work
-Jinja2 @ file:///C:/ci_311/jinja2_1676424968965/work
-jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
-jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
-joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
-jsonpointer==2.1
-jsonschema==4.22.0
-jsonschema-specifications==2023.12.1
-jupyter @ file:///C:/ci_311/jupyter_1678249952587/work
-jupyter-console @ file:///C:/b/abs_82xaa6i2y4/croot/jupyter_console_1680000189372/work
-jupyter-events==0.10.0
-jupyter-ydoc @ file:///C:/b/abs_e7m6nh5lao/croot/jupyter_ydoc_1683747253535/work
-jupyter_client @ file:///C:/ci_311/jupyter_client_1676424009414/work
-jupyter_core @ file:///C:/b/abs_9d0ttho3bs/croot/jupyter_core_1679906581955/work
-jupyter_server==2.14.0
-jupyter_server_fileid @ file:///C:/b/abs_f1yjnmiq_6/croot/jupyter_server_fileid_1684273602142/work
-jupyter_server_terminals==0.5.3
-jupyter_server_ydoc @ file:///C:/b/abs_8ai39bligw/croot/jupyter_server_ydoc_1686767445888/work
-jupyterlab @ file:///C:/b/abs_c1msr8zz3y/croot/jupyterlab_1686179674844/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///C:/b/abs_38ad427jkz/croot/jupyterlab_widgets_1679055289211/work
-jupyterlab_server @ file:///C:/b/abs_e0qqsihjvl/croot/jupyterlab_server_1680792526136/work
-keyring @ file:///C:/b/abs_dbjc7g0dh2/croot/keyring_1678999228878/work
-kiwisolver @ file:///C:/ci_311/kiwisolver_1676431979301/work
-lazy-object-proxy @ file:///C:/ci_311/lazy-object-proxy_1676432050939/work
-lazy_loader @ file:///C:/b/abs_c9jlw06oq1/croot/lazy_loader_1687266162676/work
-libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
-libmambapy @ file:///C:/b/abs_1dshymu5qt/croot/mamba-split_1680096516212/work/libmambapy
-linkify-it-py @ file:///C:/ci_311/linkify-it-py_1676474436187/work
-llvmlite @ file:///C:/b/abs_a8i9keuf6p/croot/llvmlite_1683555140340/work
-lmdb @ file:///C:/b/abs_556ronuvb2/croot/python-lmdb_1682522366268/work
-locket @ file:///C:/ci_311/locket_1676428325082/work
-lxml @ file:///C:/b/abs_c2bg6ck92l/croot/lxml_1679646459966/work
-lz4 @ file:///C:/b/abs_064u6aszy3/croot/lz4_1686057967376/work
-Markdown @ file:///C:/ci_311/markdown_1676437912393/work
-markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
-MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
-matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
-matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
-mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
-mdit-py-plugins @ file:///C:/ci_311/mdit-py-plugins_1676481827414/work
-mdurl @ file:///C:/ci_311/mdurl_1676442676678/work
-menuinst @ file:///C:/ci_311/menuinst_1678730372782/work
-mistune @ file:///C:/ci_311/mistune_1676425149302/work
-mkl-fft==1.3.6
-mkl-random @ file:///C:/Users/dev-admin/mkl/mkl_random_1682977971003/work
-mkl-service==2.4.0
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1637733554872/work
-mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
-msgpack @ file:///C:/ci_311/msgpack-python_1676427482892/work
-multidict @ file:///C:/ci_311/multidict_1676428396308/work
-multipledispatch @ file:///C:/ci_311/multipledispatch_1676442767760/work
-munkres==1.1.4
-mypy-extensions==0.4.3
-navigator-updater==0.4.0
-nbclassic @ file:///C:/b/abs_c8_rs7b3zw/croot/nbclassic_1681756186106/work
-nbclient @ file:///C:/ci_311/nbclient_1676425195918/work
-nbconvert @ file:///C:/ci_311/nbconvert_1676425836196/work
-nbformat @ file:///C:/ci_311/nbformat_1676424215945/work
-nest-asyncio @ file:///C:/ci_311/nest-asyncio_1676423519896/work
-networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
-nltk @ file:///C:/b/abs_a638z6l1z0/croot/nltk_1688114186909/work
-nodeenv==1.8.0
-notebook @ file:///C:/b/abs_e2qn6c85jb/croot/notebook_1690985290943/work
-notebook_shim @ file:///C:/ci_311/notebook-shim_1678144850856/work
-numba @ file:///C:/b/abs_b3bxhjeez4/croot/numba_1684245497898/work
-numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
-numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
-numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
-openpyxl==3.0.10
-overrides==7.7.0
-packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
-pandas @ file:///C:/ci_311_rebuilds/pandas_1679004481142/work
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-panel @ file:///C:/b/abs_3a8jdo31kd/croot/panel_1690837306872/work
-param @ file:///C:/b/abs_f5xzp6ism6/croot/param_1684915326009/work
-paramiko @ file:///opt/conda/conda-bld/paramiko_1640109032755/work
-parsel @ file:///C:/ci_311/parsel_1676443327188/work
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
-partd @ file:///opt/conda/conda-bld/partd_1647245470509/work
-pathlib @ file:///Users/ktietz/demo/mc3/conda-bld/pathlib_1629713961906/work
-pathspec @ file:///C:/ci_311/pathspec_1679427644142/work
-patsy==0.5.3
-pep8==1.7.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.4.0
-pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
-pkginfo @ file:///C:/b/abs_d18srtr68x/croot/pkginfo_1679431192239/work
-platformdirs==3.11.0
-plotly @ file:///C:/ci_311/plotly_1676443558683/work
-pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
-ply==3.11
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
-poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
-pre-commit==3.5.0
-prometheus-client @ file:///C:/ci_311/prometheus_client_1679591942558/work
-prompt-toolkit @ file:///C:/ci_311/prompt-toolkit_1676425940920/work
-Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-py-cpuinfo @ file:///Users/ktietz/demo/mc3/conda-bld/py-cpuinfo_1629480366017/work
-pyarrow==11.0.0
-pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
-pyasn1-modules==0.2.8
-pycodestyle @ file:///C:/ci_311/pycodestyle_1678376707834/work
-pycosat @ file:///C:/ci_311/pycosat_1676438455539/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyct @ file:///C:/ci_311/pyct_1676438538057/work
-pycurl==7.45.2
-pydantic @ file:///C:/b/abs_4bum6ajkso/croot/pydantic_1686125732638/work
-PyDispatcher==2.0.5
-pydocstyle @ file:///C:/ci_311/pydocstyle_1678402028085/work
-pyerfa @ file:///C:/ci_311/pyerfa_1676503994641/work
-pyflakes @ file:///C:/ci_311/pyflakes_1678402101687/work
-Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
-PyJWT @ file:///C:/ci_311/pyjwt_1676438890509/work
-pylint @ file:///C:/ci_311/pylint_1678740302984/work
-pylint-venv @ file:///C:/ci_311/pylint-venv_1678402170638/work
-pyls-spyder==0.4.0
-PyNaCl @ file:///C:/ci_311/pynacl_1676445861112/work
-pyodbc @ file:///C:/ci_311/pyodbc_1676489976744/work
-pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
-pyparsing @ file:///C:/ci_311/pyparsing_1678502182533/work
-PyQt5==5.15.7
-PyQt5-sip @ file:///C:/ci_311/pyqt-split_1676428895938/work/pyqt_sip
-PyQtWebEngine==5.15.4
-pyrsistent @ file:///C:/ci_311/pyrsistent_1676422695500/work
-PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
-pytest @ file:///C:/b/abs_48heoo_k8y/croot/pytest_1690475385915/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-python-dotenv @ file:///C:/ci_311/python-dotenv_1676455170580/work
-python-json-logger @ file:///C:/b/abs_cblnsm6puj/croot/python-json-logger_1683824130469/work
-python-lsp-black @ file:///C:/ci_311/python-lsp-black_1678721855627/work
-python-lsp-jsonrpc==1.0.0
-python-lsp-server @ file:///C:/b/abs_catecj7fv1/croot/python-lsp-server_1681930405912/work
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
-python-snappy @ file:///C:/ci_311/python-snappy_1676446060182/work
-pytoolconfig @ file:///C:/ci_311/pytoolconfig_1678402262175/work
-pytz @ file:///C:/ci_311/pytz_1676427070848/work
-pyviz-comms @ file:///C:/b/abs_6cq38vhwa5/croot/pyviz_comms_1685030740344/work
-PyWavelets @ file:///C:/ci_311/pywavelets_1676504105729/work
-pywin32==305.1
-pywin32-ctypes @ file:///C:/ci_311/pywin32-ctypes_1676427747089/work
-pywinpty @ file:///C:/ci_311/pywinpty_1677707791185/work/target/wheels/pywinpty-2.0.10-cp311-none-win_amd64.whl
-PyYAML @ file:///C:/ci_311/pyyaml_1676432488822/work
-pyzmq==26.0.3
-QDarkStyle @ file:///tmp/build/80754af9/qdarkstyle_1617386714626/work
-qstylizer @ file:///C:/ci_311/qstylizer_1678502012152/work/dist/qstylizer-0.2.2-py2.py3-none-any.whl
-QtAwesome @ file:///C:/ci_311/qtawesome_1678402331535/work
-qtconsole @ file:///C:/b/abs_eb4u9jg07y/croot/qtconsole_1681402843494/work
-QtPy @ file:///C:/ci_311/qtpy_1676432558504/work
-queuelib==1.5.0
-referencing==0.35.1
-regex @ file:///C:/ci_311_rebuilds/regex_1679006156792/work
-requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
-requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-requests-toolbelt @ file:///C:/b/abs_2fsmts66wp/croot/requests-toolbelt_1690874051210/work
-retrying==1.3.4
-rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
-rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
-rope @ file:///C:/ci_311/rope_1678402524346/work
-rpds-py==0.18.1
-Rtree @ file:///C:/ci_311/rtree_1676455758391/work
-ruamel-yaml-conda @ file:///C:/ci_311/ruamel_yaml_1676455799258/work
-ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
-s3fs @ file:///C:/b/abs_9ctwhzh1il/croot/s3fs_1680018487962/work
-s3transfer @ file:///C:/ci_311/s3transfer_1676434371175/work
-sacremoses @ file:///tmp/build/80754af9/sacremoses_1633107328213/work
-scikit-image @ file:///C:/b/abs_2075zg1pia/croot/scikit-image_1682528361447/work
-scikit-learn @ file:///C:/b/abs_55olq_4gzc/croot/scikit-learn_1690978955123/work
-scikit-learn-intelex==20230426.121932
-scipy==1.10.1
-Scrapy @ file:///C:/ci_311/scrapy_1678502587780/work
-seaborn @ file:///C:/ci_311/seaborn_1676446547861/work
-Send2Trash==1.8.3
-service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
-sip @ file:///C:/ci_311/sip_1676427825172/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smart-open @ file:///C:/ci_311/smart_open_1676439339434/work
-sniffio @ file:///C:/ci_311/sniffio_1676425339093/work
-snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
-sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
-soupsieve @ file:///C:/b/abs_a989exj3q6/croot/soupsieve_1680518492466/work
-Sphinx @ file:///C:/ci_311/sphinx_1676434546244/work
-sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
-sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
-sphinxcontrib-htmlhelp @ file:///tmp/build/80754af9/sphinxcontrib-htmlhelp_1623945626792/work
-sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
-sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
-sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-serializinghtml_1624451540180/work
-spyder @ file:///C:/b/abs_e99kl7d8t0/croot/spyder_1681934304813/work
-spyder-kernels @ file:///C:/b/abs_862e4aayi8/croot/spyder-kernels_1681307297029/work
-SQLAlchemy @ file:///C:/ci_311/sqlalchemy_1676446707912/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-statsmodels @ file:///C:/b/abs_7bth810rna/croot/statsmodels_1689937298619/work
-sympy @ file:///C:/ci_311_rebuilds/sympy_1679009400182/work
-tables @ file:///C:/b/abs_52tcd9b9dp/croot/pytables_1685123233455/work
-tabulate @ file:///C:/ci_311/tabulate_1676494503192/work
-TBB==0.2
-tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
-tenacity @ file:///C:/b/abs_ddkoa9nju6/croot/tenacity_1682972298929/work
-terminado @ file:///C:/ci_311/terminado_1678228513830/work
-text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
-textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
-tifffile @ file:///tmp/build/80754af9/tifffile_1627275862826/work
-tinycss2 @ file:///C:/ci_311/tinycss2_1676425376744/work
-tldextract @ file:///opt/conda/conda-bld/tldextract_1646638314385/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomlkit @ file:///C:/ci_311/tomlkit_1676425418821/work
-toolz @ file:///C:/ci_311/toolz_1676431406517/work
-tornado @ file:///C:/b/abs_61jhmrrua1/croot/tornado_1690848767317/work
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
-traitlets @ file:///C:/ci_311/traitlets_1676423290727/work
-transformers @ file:///tmp/build/80754af9/transformers_1633098115425/work
-Twisted @ file:///C:/b/abs_f1pc_rieoy/croot/twisted_1683796899561/work
-twisted-iocpsupport @ file:///C:/ci_311/twisted-iocpsupport_1676447612160/work
-typing_extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_1690297804941/work
-uc-micro-py @ file:///C:/ci_311/uc-micro-py_1676457695423/work
-ujson @ file:///C:/ci_311/ujson_1676434714224/work
-Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-uri-template==1.3.0
-urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
-virtualenv==20.24.6
-voila==0.5.7
-w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
-watchdog @ file:///C:/ci_311/watchdog_1676457923624/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webcolors==1.13
-webencodings==0.5.1
-websocket-client==1.8.0
-websockets==12.0
-Werkzeug @ file:///C:/b/abs_8578rs2ra_/croot/werkzeug_1679489759009/work
-whatthepatch @ file:///C:/ci_311/whatthepatch_1678402578113/work
-widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_1679313880295/work
-win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
-wrapt @ file:///C:/ci_311/wrapt_1676432805090/work
-xarray @ file:///C:/b/abs_5bkjiynp4e/croot/xarray_1689041498548/work
-xlwings @ file:///C:/ci_311_rebuilds/xlwings_1679013429160/work
-xyzservices @ file:///C:/ci_311/xyzservices_1676434829315/work
-y-py @ file:///C:/b/abs_b7f5go6r0j/croot/y-py_1683662173571/work
-yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
-yarl @ file:///C:/ci_311/yarl_1676432870023/work
-ypy-websocket @ file:///C:/b/abs_4e65ywlnv8/croot/ypy-websocket_1684172103529/work
-zict @ file:///C:/b/abs_fc7elavmem/croot/zict_1682698759288/work
-zipp @ file:///C:/ci_311/zipp_1676426100491/work
-zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
-zstandard==0.19.0
+<!DOCTYPE html>
+<!-- saved from url=(0061)http://localhost:8889/edit/Untitled%20Folder/requirements.txt -->
+<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+    <title>requirements.txt - Jupyter Text Editor</title>
+    <link id="favicon" rel="shortcut icon" type="image/x-icon" href="http://localhost:8889/static/base/images/favicon-file.ico?v=f9f0a782d7d67b3a57bf7dce251d771b405c7890604576ec8b9a621a39d7670f6b43ffabef1e566f1cd741ee302e15977d9e1cf60bbacebafe75787b9916415c">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./requirements_files/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="./requirements_files/jquery.typeahead.min.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+<link rel="stylesheet" href="./requirements_files/codemirror.css">
+<link rel="stylesheet" href="./requirements_files/dialog.css">
+
+    <link rel="stylesheet" href="./requirements_files/style.min.css" type="text/css">
+    
+
+    <link rel="stylesheet" href="./requirements_files/custom.css" type="text/css">
+    <script src="./requirements_files/promise.min.js.télécharger" type="text/javascript" charset="utf-8"></script>
+    <script src="./requirements_files/react.production.min.js.télécharger" type="text/javascript"></script>
+    <script src="./requirements_files/react-dom.production.min.js.télécharger" type="text/javascript"></script>
+    <script src="./requirements_files/index.js.télécharger" type="text/javascript"></script>
+    <script src="./requirements_files/require.js.télécharger" type="text/javascript" charset="utf-8"></script>
+    <script>
+      require.config({
+          
+          urlArgs: "v=20240525143159",
+          
+          baseUrl: '/static/',
+          paths: {
+            'auth/js/main': 'auth/js/main.min',
+            custom : '/custom',
+            nbextensions : '/nbextensions',
+            kernelspecs : '/kernelspecs',
+            underscore : 'components/underscore/underscore-min',
+            backbone : 'components/backbone/backbone-min',
+            jed: 'components/jed/jed',
+            jquery: 'components/jquery/jquery.min',
+            json: 'components/requirejs-plugins/src/json',
+            text: 'components/requirejs-text/text',
+            bootstrap: 'components/bootstrap/dist/js/bootstrap.min',
+            bootstraptour: 'components/bootstrap-tour/build/js/bootstrap-tour.min',
+            'jquery-ui': 'components/jquery-ui/dist/jquery-ui.min',
+            moment: 'components/moment/min/moment-with-locales',
+            codemirror: 'components/codemirror',
+            termjs: 'components/xterm.js/xterm',
+            typeahead: 'components/jquery-typeahead/dist/jquery.typeahead.min',
+          },
+          map: { // for backward compatibility
+              "*": {
+                  "jqueryui": "jquery-ui",
+              }
+          },
+          shim: {
+            typeahead: {
+              deps: ["jquery"],
+              exports: "typeahead"
+            },
+            underscore: {
+              exports: '_'
+            },
+            backbone: {
+              deps: ["underscore", "jquery"],
+              exports: "Backbone"
+            },
+            bootstrap: {
+              deps: ["jquery"],
+              exports: "bootstrap"
+            },
+            bootstraptour: {
+              deps: ["bootstrap"],
+              exports: "Tour"
+            },
+            "jquery-ui": {
+              deps: ["jquery"],
+              exports: "$"
+            }
+          },
+          waitSeconds: 30,
+      });
+
+      require.config({
+          map: {
+              '*':{
+                'contents': 'services/contents',
+              }
+          }
+      });
+
+      // error-catching custom.js shim.
+      define("custom", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom');
+              console.debug('loaded custom.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom.js", e);
+              return {};
+          }
+      })
+
+      // error-catching custom-preload.js shim.
+      define("custom-preload", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom-preload');
+              console.debug('loaded custom-preload.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom-preload.js", e);
+              return {};
+          }
+      })
+
+    document.nbjs_translations = {"domain": "nbjs", "locale_data": {"nbjs": {"": {"domain": "nbjs"}, "Manually edit the JSON below to manipulate the metadata for this cell.": ["\u00c9diter manuellement le JSON ci-dessous pour manipuler les m\u00e9ta-donn\u00e9es de cette cellule"], "Manually edit the JSON below to manipulate the metadata for this notebook.": ["\u00c9diter manuellement le JSON ci-dessous pour manipuler les m\u00e9ta-donn\u00e9es de ce notebook."], " We recommend putting custom metadata attributes in an appropriately named substructure, so they don't conflict with those of others.": [" Il est recommand\u00e9 de placer les attributs personnalis\u00e9s de m\u00e9ta-donn\u00e9es dans une sous-structure nomm\u00e9e de mani\u00e8re appropri\u00e9e, afin qu'ils n'interf\u00e8rent pas avec ceux des autres."], "Edit the metadata": ["\u00c9diter les m\u00e9ta-donn\u00e9es"], "Edit Notebook Metadata": ["\u00c9diter les m\u00e9ta-donn\u00e9es du Notebook"], "Edit Cell Metadata": ["\u00c9diter les m\u00e9ta-donn\u00e9es de la cellule"], "Cancel": ["Annuler"], "Edit": ["\u00c9diter"], "OK": ["OK"], "Apply": ["Appliquer"], "WARNING: Could not save invalid JSON.": ["ATTENTION: Impossible de sauvegarder du JSON invalide."], "There are no attachments for this cell.": ["Il n'y a pas de pi\u00e8ce-jointe \u00e0 cette cellule."], "Current cell attachments": ["Pi\u00e8ce-jointes actuelles de la cellule"], "Attachments": ["Pi\u00e8ces jointes"], "Restore": ["Restaurer"], "Delete": ["Supprimer"], "Edit attachments": ["Modifier les pi\u00e8ces jointes"], "Edit Notebook Attachments": ["Modifier les pi\u00e8ces jointes du Notebook"], "Edit Cell Attachments": ["Modifier les pi\u00e8ces jointes de la cellule"], "Select a file to insert.": ["S\u00e9lectionner un fichier \u00e0 ins\u00e9rer."], "Select a file": ["S\u00e9lectionner un fichier"], "You are using Jupyter notebook.": ["Vous utilisez un notebook Jupyter."], "The version of the notebook server is: ": ["La version du serveur de notebook est : "], "The server is running on this version of Python:": ["Le serveur utilise la version de Python :"], "Waiting for kernel to be available...": ["En attente de disponibilit\u00e9 du noyau..."], "Server Information:": ["Information du serveur :"], "Current Kernel Information:": ["Information du Noyau courant :"], "Could not access sys_info variable for version information.": ["Impossible d'acc\u00e9der \u00e0 la variable sys_info pour l'information relative aux versions."], "Cannot find sys_info!": ["Impossible de trouver sys_info !"], "About Jupyter Notebook": ["\u00c0 propos de Jupyter Notebook"], "unable to contact kernel": ["impossible de joindre le noyau"], "toggle rtl layout": ["Changer le sens d'organisation de l'interface"], "Toggle the screen directionality between left-to-right and right-to-left": ["Changer le sens d'organisation des \u00e9l\u00e9ments d'interface entre gauche-\u00e0-droite et droite-\u00e0-gauche"], "edit command mode keyboard shortcuts": ["modifier les raccourcis clavier du mode commande"], "Open a dialog to edit the command mode keyboard shortcuts": ["Ouvrir un dialogue pour \u00e9diter les racourcis clavier du mode commande"], "restart kernel": ["red\u00e9marrer le noyau"], "restart the kernel (no confirmation dialog)": ["red\u00e9marrer le noyau (sans confirmation)"], "confirm restart kernel": ["confirmer le red\u00e9marrage du noyau"], "restart the kernel (with dialog)": ["red\u00e9marrer le noyau (avec confirmation)"], "restart kernel and run all cells": ["red\u00e9marrer le noyau et ex\u00e9cuter toutes les cellules"], "restart the kernel, then re-run the whole notebook (no confirmation dialog)": ["red\u00e9marrer le noyau, et r\u00e9-ex\u00e9cuter tout le notebook (sans confirmation)"], "confirm restart kernel and run all cells": ["confirmer le red\u00e9marrage du noyau et l'ex\u00e9cution des cellules"], "restart the kernel, then re-run the whole notebook (with dialog)": ["red\u00e9marrer le noyau, et r\u00e9-ex\u00e9cuter tout le notebook (sans confirmation)"], "restart kernel and clear output": ["red\u00e9marrer le noyau, et effacer les sorties"], "restart the kernel and clear all output (no confirmation dialog)": ["red\u00e9marrer le noyau et effacer les sorties (sans confirmation)"], "confirm restart kernel and clear output": ["confirmer le red\u00e9marrage du noyau et l'effacement des sorties"], "restart the kernel and clear all output (with dialog)": ["red\u00e9marrer le noyau et effacer les sorties (avec confirmation)"], "interrupt the kernel": ["interrompre le noyau"], "run cell and select next": ["ex\u00e9cuter la cellule et s\u00e9lectionner la suivante"], "run cell, select below": ["ex\u00e9cuter la cellule, s\u00e9lectionner la suivante"], "run selected cells": ["ex\u00e9cuter les cellules s\u00e9lectionn\u00e9es"], "run cell and insert below": ["ex\u00e9cuter la cellule et ins\u00e9rer apr\u00e8s"], "run all cells": ["ex\u00e9cuter toutes les cellules"], "run all cells above": ["ex\u00e9cuter toutes les cellules pr\u00e9c\u00e9dentes"], "run all cells below": ["Ex\u00e9cuter toutes les cellules suivantes"], "enter command mode": ["ouvrir le mode commande"], "insert image": ["ins\u00e9rer une image"], "cut cell attachments": ["couper les pi\u00e8ces-jointes de la cellule"], "copy cell attachments": ["copier les pi\u00e8ces-jointes de la cellule"], "paste cell attachments": ["coller les pi\u00e8ces-jointes de la cellule"], "split cell at cursor": ["s\u00e9parer la cellule au niveau du curseur"], "enter edit mode": ["activer le mode d'\u00e9dition"], "select previous cell": ["s\u00e9lectionner la cellule pr\u00e9c\u00e9dente"], "select cell above": ["s\u00e9lectionner la cellule pr\u00e9c\u00e9dente"], "select next cell": ["s\u00e9lectionner la cellule suivante"], "select cell below": ["s\u00e9lectionner la cellule suivante"], "extend selection above": ["\u00e9tendre la s\u00e9lection vers le haut"], "extend selected cells above": ["\u00e9tendre les cellules s\u00e9lectionn\u00e9es vers le haut"], "extend selection below": ["\u00e9tendre la s\u00e9lection vers le bas"], "extend selected cells below": ["\u00e9tendre les cellules s\u00e9lectionn\u00e9es vers le bas"], "cut selected cells": ["couper les cellules s\u00e9lectionn\u00e9es"], "copy selected cells": ["copier les cellules s\u00e9lectionn\u00e9es"], "paste cells above": ["coller les cellules avant"], "paste cells below": ["coller les cellules apr\u00e8s"], "insert cell above": ["ins\u00e9rer une cellule avant"], "insert cell below": ["ins\u00e9rer une cellule apr\u00e8s"], "change cell to code": ["transformer en cellule de code"], "change cell to markdown": ["transformer celllule en markdown"], "change cell to raw": ["transformer en texte brut (pour NBConvert)"], "change cell to heading 1": ["transformer en titre de niveau 1"], "change cell to heading 2": ["transformer en titre de niveau 2"], "change cell to heading 3": ["transformer en titre de niveau 3"], "change cell to heading 4": ["transformer en titre de niveau 4"], "change cell to heading 5": ["transformer en titre de niveau 5"], "change cell to heading 6": ["transformer en titre de niveau 6"], "toggle cell output": ["afficher/masquer la sortie de cellule"], "toggle output of selected cells": ["afficher/masquer la sortie des cellules s\u00e9lectionn\u00e9es"], "toggle cell scrolling": ["afficher/masquer la barre de d\u00e9filement de la sortie de la cellule"], "toggle output scrolling of selected cells": ["afficher/masquer la barre de d\u00e9filement des la sortie des cellules s\u00e9lectionn\u00e9es"], "clear cell output": ["effacer la sortie de la cellule"], "clear output of selected cells": ["effacer la sortie des cellules s\u00e9lectionn\u00e9es"], "move cells down": ["d\u00e9placer les cellules vers le bas"], "move selected cells down": ["d\u00e9placer les cellules s\u00e9lectionn\u00e9es vers le bas"], "move cells up": ["d\u00e9placer les cellules vers le haut"], "move selected cells up": ["d\u00e9placer les cellules s\u00e9lectionn\u00e9es vers le haut"], "toggle line numbers": ["afficher/masquer les num\u00e9ros de ligne"], "show keyboard shortcuts": ["afficher les raccourcis clavier"], "delete cells": ["supprimer les cellules"], "delete selected cells": ["supprimer les cellules s\u00e9lectionn\u00e9es"], "undo cell deletion": ["annuler la suppression de cellule"], "merge cell with previous cell": ["fusionner la cellule avec la pr\u00e9c\u00e9dente"], "merge cell above": ["fusionner la cellule avec les pr\u00e9c\u00e9dentes"], "merge cell with next cell": ["fusionner la cellule avec la suivante"], "merge cell below": ["fusionner la cellule avec les suivantes"], "merge selected cells": ["fusionnnner les cellules s\u00e9lectionn\u00e9es"], "merge cells": ["fusionnnner les cellules"], "merge selected cells, or current cell with cell below if only one cell is selected": ["fusionner les cellules s\u00e9lectionn\u00e9es, ou la cellule courante avec la suivante si une unique cellule est s\u00e9lectionn\u00e9e"], "show command pallette": ["afficher la palette de commandes"], "open the command palette": ["ouvrir la palette de commandes"], "toggle all line numbers": ["afficher/masquer tous les num\u00e9ros de ligne"], "toggles line numbers in all cells, and persist the setting": ["afficher/masquer les num\u00e9ros de ligne dans toutes ces cellules, et s'en souvenir dans les param\u00e8tres"], "show all line numbers": ["afficher/masquer tous les num\u00e9ros de ligne"], "show line numbers in all cells, and persist the setting": ["afficher les num\u00e9ros de ligne dans toutes les cellules, et s'en souvenir dans les param\u00e8tres"], "hide all line numbers": ["masquer tous les num\u00e9ros de ligne"], "hide line numbers in all cells, and persist the setting": ["masquer les num\u00e9ros de ligne dans toutes les cellules, et s'en souvenir dans les param\u00e8tres"], "toggle header": ["afficher/masquer l'en-t\u00eate"], "switch between showing and hiding the header": ["afficher/masquer l'en-t\u00eate"], "show the header": ["afficher l'en-t\u00eate"], "hide the header": ["masquer l'en-t\u00eate"], "toggle toolbar": ["afficher/masquer la barre d'outils"], "switch between showing and hiding the toolbar": ["afficher/masquer la barre d'outils"], "show the toolbar": ["afficher la barre d'outils"], "hide the toolbar": ["masquer la barre d'outils"], "close the pager": ["fermer le paginateur"], "ignore": ["ignorer"], "move cursor up": ["d\u00e9placer le curseur vers le haut"], "move cursor down": ["d\u00e9placer le curseur vers le bas"], "scroll notebook down": ["faire d\u00e9filer le notebook vers le bas"], "scroll notebook up": ["faire d\u00e9filer le notebook vers le haut"], "scroll cell center": ["faire d\u00e9filer la cellule courante au centre"], "Scroll the current cell to the center": ["Faire d\u00e9filer la cellule courante au centre"], "scroll cell top": ["faire d\u00e9filer la cellule en haut"], "Scroll the current cell to the top": ["Faire d\u00e9filer la cellule courante en haut"], "duplicate notebook": ["dupliquer le notebook"], "Create and open a copy of the current notebook": ["Cr\u00e9er et ouvrir une copie du notebook courant"], "trust notebook": ["faire confiance \u00e0 ce notebook"], "Trust the current notebook": ["Faire confiance au notebook courant"], "rename notebook": ["renommer le notebook"], "Rename the current notebook": ["Renommer le notebook courant"], "toggle all cells output collapsed": ["afficher/masquer toutes les sorties en mode compact"], "Toggle the hidden state of all output areas": ["Afficher/masquer toutes les sorties"], "toggle all cells output scrolled": ["afficher/masquer toutes les sorties en mode d\u00e9filement"], "Toggle the scrolling state of all output areas": ["Activer/d\u00e9sactiver le d\u00e9filement de toutes les sorties"], "clear all cells output": ["effacer le contenu de toutes les sorties de cellules"], "Clear the content of all the outputs": ["Effacer le contenu de toutes les sorties"], "save notebook": ["enregistrer le notebook"], "Save and Checkpoint": ["Cr\u00e9er une nouvelle sauvegarde"], "Warning: accessing Cell.cm_config directly is deprecated.": ["Attention : acc\u00e9der \u00e0 Cell.cm_config directement est d\u00e9pr\u00e9ci\u00e9."], "Unrecognized cell type: %s": ["Type de cellule non reconnu : %s"], "Unrecognized cell type": ["Type de cellule non reconnu"], "Error in cell toolbar callback %s": ["Erreur dans le callback %s de la barre d'outil de cellule"], "Clipboard types: %s": ["Types de donn\u00e9es dans le presse-papier : %s"], "Dialog for paste from system clipboard": ["Bo\u00eete de dialogue pour coller depuis le presse-papier du syst\u00e8me"], "Ctrl-V": ["Ctrl-V"], "Cmd-V": ["Cmd-V"], "Press %s again to paste": ["Appuyer sur %s \u00e0 nouveau pour coller"], "Why is this needed? ": ["Pourquoi ce comportement ?"], "We can't get paste events in this browser without a text box. ": ["Il n'est pas possible de capturer les \u00e9v\u00e8nements \u00ab coller \u00bb dans le navigateur sans champ de texte"], "There's an invisible text box focused in this dialog.": ["Cette bo\u00eete de dialogue contient un champ de texte invisible."], "%s to paste": ["%s pour coller"], "Can't execute cell since kernel is not set.": ["Impossible d'ex\u00e9cuter cette cellule car aucun noyau n'est choisi."], "In": ["Entr\u00e9e"], "Could not find a kernel matching %s. Please select a kernel:": ["Impossible de trouver un noyau correspondant \u00e0 %s. Merci de s\u00e9lectionner un noyau :"], "Continue Without Kernel": ["Poursuivre sans noyau"], "Set Kernel": ["Choisir le noyau"], "Kernel not found": ["Noyau introuvable"], "Creating Notebook Failed": ["La cr\u00e9ation du notebook a \u00e9chou\u00e9"], "The error was: %s": ["L'erreur est : %s"], "Run": ["Ex\u00e9cuter"], "Code": ["Code"], "Markdown": ["Markdown"], "Raw NBConvert": ["Texte Brut (pour NBConvert)"], "Heading": ["Titre"], "unrecognized cell type:": ["type de cellule non reconnu :"], "Failed to retrieve MathJax from '%s'": ["Impossible de r\u00e9cup\u00e9rer MathJax depuis '%s'"], "Math/LaTeX rendering will be disabled.": ["Le rendu Math/LaTex sera d\u00e9sactiv\u00e9."], "Trusted Notebook": ["Notebook de confiance"], "Trust Notebook": ["Faire confiance \u00e0 ce Notebook"], "None": ["Aucun(e)"], "No checkpoints": ["Pas de point de sauvegarde"], "Opens in a new window": ["Ouvrir dans une nouvelle fen\u00eatre"], "Autosave in progress, latest changes may be lost.": ["Auto-sauvegarde en cours, les derni\u00e8res modifications pourraient \u00eatre perdues."], "Unsaved changes will be lost.": ["Les modifications non sauvegard\u00e9es seront perdues."], "The Kernel is busy, outputs may be lost.": ["Le noyau est occup\u00e9, les sorties pourraient \u00eatre perdues."], "This notebook is version %1$s, but we only fully support up to %2$s.": ["Ce notebook est pr\u00e9vu pour la version %1$s du logiciel, mais nous supportons au maximum la version %2$s."], "You can still work with this notebook, but cell and output types introduced in later notebook versions will not be available.": ["Vous pouvez continuer \u00e0 travailler avec ce notebook, mais les types de cellules et de sorties introduits dans les versions ult\u00e9rieures du logiciel ne seront pas disponibles."], "Restart and Run All Cells": ["Relancer et ex\u00e9cuter toutes les cellules"], "Restart and Clear All Outputs": ["Relancer et effacer toutes les sorties"], "Restart": ["Relancer"], "Continue Running": ["Poursuivre l'ex\u00e9cution"], "Reload": ["Recharger"], "Overwrite": ["\u00c9craser"], "Trust": ["Faire confiance"], "Revert": ["R\u00e9tablir"], "Newer Notebook": ["Notebook plus r\u00e9cent"], "Use markdown headings": ["Utiliser les titres markdown"], "Jupyter no longer uses special heading cells. Instead, write your headings in Markdown cells using # characters:": ["Jupyter n'utilise plus de cellules sp\u00e9ciales pour les titres. \u00c0 la place, utiliser la syntaxe de titre dans des cellules Markdown avec les caract\u00e8res # :"], "## This is a level 2 heading": ["## Ceci est un titre de niveau 2"], "Restart kernel and re-run the whole notebook?": ["Red\u00e9marrer le noyau et r\u00e9-ex\u00e9cuter l'ensemble du noteboook ?"], "Are you sure you want to restart the current kernel and re-execute the whole notebook?  All variables and outputs will be lost.": ["\u00cates-vous certain de vouloir red\u00e9marrer le noyau actuel et r\u00e9-ex\u00e9cuter l'ensemble du notebook ? Toutes les variables et sorties seront perdues."], "Restart kernel and clear all output?": ["Red\u00e9marrer le noyau et effacer toutes les sorties ?"], "Do you want to restart the current kernel and clear all output?  All variables and outputs will be lost.": ["Souhaitez-vous red\u00e9marrer le noyau actuel et effacer toutes les sorties ? Toutes les variables et les sorties seront perdues."], "Restart kernel?": ["Red\u00e9marrer le noyau ?"], "Do you want to restart the current kernel?  All variables will be lost.": ["Souhaitez-vous red\u00e9marrer le noyau actuel ? Toutes les variables seront perdues."], "Shutdown kernel?": ["Arr\u00eater le noyau ?"], "Do you want to shutdown the current kernel?  All variables will be lost.": ["Souhaitez-vous red\u00e9marrer le noyau actuel ? Toutes les variables seront perdues."], "Notebook changed": ["Notebook modifi\u00e9"], "The notebook file has changed on disk since the last time we opened or saved it. Do you want to overwrite the file on disk with the version open here, or load the version on disk (reload the page) ?": ["Le fichier du notebook a chang\u00e9 sur le disque depuis que vous l'avez ouvert ou sauvegard\u00e9. Souhaitez-vous \u00e9craser le fichier sur le disque avec la version ouverte ici ou charger la version pr\u00e9sente sur le disque (recharge la page) ?"], "Notebook validation failed": ["La validation du notebook a \u00e9chou\u00e9"], "The save operation succeeded, but the notebook does not appear to be valid. The validation error was:": ["La sauvegarde a r\u00e9ussi, mais le notebook semble invalide. L'erreur de validation est :"], "A trusted Jupyter notebook may execute hidden malicious code when you open it. Selecting trust will immediately reload this notebook in a trusted state. For more information, see the Jupyter security documentation: ": ["Un notebook Jupyter auquel vous faites confiance peut ex\u00e9cuter du code malicieux quand vous l'ouvrez. Choisir de faire confiance \u00e0 ce notebook va le recharger imm\u00e9diatement en mode confiance. Pour davantage d'information, voir la section s\u00e9curit\u00e9 dans la documentation de Jupyter."], "here": ["ici"], "Trust this notebook?": ["Faire confiance \u00e0 ce notebook ?"], "Notebook failed to load": ["Le chargement du notebook a \u00e9chou\u00e9"], "The error was: ": ["L'erreur est : "], "See the error console for details.": ["Voir la console d'erreur pour davantage de d\u00e9tails."], "The notebook also failed validation:": ["La validation du notebook a \u00e9chou\u00e9 :"], "An invalid notebook may not function properly. The validation error was:": ["Un notebook non valide peut dysfonctionner. L'erreur de validation est :"], "This notebook has been converted from an older notebook format to the current notebook format v(%s).": ["Ce notebook a \u00e9t\u00e9 converti depuis un format plus ancien de notebook vers le format actuel v(%s)."], "This notebook has been converted from a newer notebook format to the current notebook format v(%s).": ["Ce notebook a \u00e9t\u00e9 converti depuis un format plus r\u00e9cent de notebook vers le format actuel v(%s)."], "The next time you save this notebook, the current notebook format will be used.": ["Au prochain enregistrement de ce notebook, le format actuel de notebook sera utilis\u00e9"], "Older versions of Jupyter may not be able to read the new format.": ["D'anciennes version de Jupyter peuvent ne pas \u00eatre en mesure de lire le nouveau format."], "Some features of the original notebook may not be available.": ["Certaines fonctionalit\u00e9s du notebook d'origine peuvent ne pas \u00eatre disponibles."], "To preserve the original version, close the notebook without saving it.": ["Pour pr\u00e9server la version originale, fermer le notebook sans l'enregistrer."], "Notebook converted": ["Notebook converti"], "(No name)": ["(Sans nom)"], "An unknown error occurred while loading this notebook. This version can load notebook formats %s or earlier. See the server log for details.": ["Une erreur inconnue s'est produite pendant le chargement de ce notebook. Cette version peut charger des formats de notebooks %s ou plus ancien. Voir les journaux du serveur pour davantage d'information."], "Error loading notebook": ["Erreur pendant le chargement du notebook"], "Are you sure you want to revert the notebook to the latest checkpoint?": ["\u00cates-vous certain de vouloir restaurer la derni\u00e8re sauvegarde ?"], "This cannot be undone.": ["Impossible d'annuler."], "The checkpoint was last updated at:": ["Derni\u00e8re sauvegarde \u00e0 : "], "Revert notebook to checkpoint": ["Restaurer le notebook \u00e0 une sauvegarde ant\u00e9rieure"], "Edit Mode": ["Mode \u00c9dition"], "Command Mode": ["Mode Commande"], "Kernel Created": ["Noyau cr\u00e9\u00e9"], "Connecting to kernel": ["Connexion au noyau"], "Not Connected": ["Non connect\u00e9"], "click to reconnect": ["cliquer pour reconnecter"], "Restarting kernel": ["Noyau en cours de red\u00e9marrage"], "Kernel Restarting": ["Noyau en cours de red\u00e9marrage"], "The kernel appears to have died. It will restart automatically.": ["Le noyau semble plant\u00e9. Il va red\u00e9marrer automatiquement."], "Dead kernel": ["Noyau plant\u00e9"], "Kernel Dead": ["Noyau plant\u00e9"], "Interrupting kernel": ["Noyau en cours d'interruption"], "No Connection to Kernel": ["Pas de connexion au noyau"], "A connection to the notebook server could not be established. The notebook will continue trying to reconnect. Check your network connection or notebook server configuration.": ["La connexion au serveur de notebook ne peut pas \u00eatre \u00e9tablie. Le notebook va continuer ses tentatives. V\u00e9rifiez votre connexion r\u00e9seau ou les param\u00e8tres du serveur de notebook."], "Connection failed": ["\u00c9chec de la connexion"], "No kernel": ["Pas de noyau"], "Kernel is not running": ["Le noyau n'est pas actif"], "Don't Restart": ["Ne pas red\u00e9marrer"], "Try Restarting Now": ["Essayer de red\u00e9marrer maintenant"], "The kernel has died, and the automatic restart has failed. It is possible the kernel cannot be restarted. If you are not able to restart the kernel, you will still be able to save the notebook, but running code will no longer work until the notebook is reopened.": ["Le noyau a plant\u00e9, et le red\u00e9marrage automatique a \u00e9chou\u00e9. Il est possible que le noyau ne puisse pas \u00eatre relanc\u00e9. Si c'est le cas, vous pourrez toujours sauvegarder le notebook, mais l'ex\u00e9cution de code ne fonctionnera pas jusqu'\u00e0 la r\u00e9-ouverture du notebook."], "No Kernel": ["Pas de Noyau"], "Failed to start the kernel": ["\u00c9chec du d\u00e9marrage du noyau"], "Kernel Busy": ["Noyau occup\u00e9"], "Kernel starting, please wait...": ["Noyau en cours de d\u00e9marrage, patientez\u2026"], "Kernel Idle": ["Noyau inactif"], "Kernel ready": ["Noyau pr\u00eat"], "Using kernel: ": ["Noyau utilis\u00e9 : "], "Only candidate for language: %1$s was %2$s.": ["Unique candidat pour le langage : %1$s \u00e9tait %2$s."], "Loading notebook": ["Chargement du notebook en cours"], "Notebook loaded": ["Notebook charg\u00e9"], "Saving notebook": ["Enregistrement du notebook en cours"], "Notebook saved": ["Notebook enregistr\u00e9"], "Notebook save failed": ["L'enregistrement du notebook a \u00e9chou\u00e9"], "Notebook copy failed": ["La copie du notebook a \u00e9chou\u00e9"], "Checkpoint created": ["Sauvegarde cr\u00e9\u00e9e"], "Checkpoint failed": ["\u00c9chec de la sauvegarde"], "Checkpoint deleted": ["Sauvegarde supprim\u00e9e"], "Checkpoint delete failed": ["\u00c9chec de la suppression de la sauvegarde"], "Restoring to checkpoint...": ["Restauration de la sauvegarde..."], "Checkpoint restore failed": ["La restauration de la sauvegarde a \u00e9chou\u00e9"], "Autosave disabled": ["Sauvegarde automatique d\u00e9sactiv\u00e9e"], "Saving every %d sec.": ["Sauvegarde toutes les %d sec."], "Trusted": ["Fiable"], "Not Trusted": ["Non fiable"], "click to expand output": ["cliquer pour afficher toute la sortie"], "click to expand output; double click to hide output": ["cliquer pour afficher toute la sortie ; double-cliquer pour masquer la sortie"], "click to unscroll output; double click to hide": ["cliquer pour faire d\u00e9filer la sortie vers le haut ; double-cliquer pour masquer"], "click to scroll output; double click to hide": ["cliquer pour faire d\u00e9filer la sortie ; double-cliquer pour masquer"], "Javascript error adding output!": ["Erreur JavaScript pendant l'\u00e9criture de la sortie !"], "See your browser Javascript console for more details.": ["Voir la console JavaScript de votre navigateur pour plus d'informations."], "Out[%d]:": ["Sortie[%d] :"], "Unrecognized output: %s": ["Sortie non reconnue : %s"], "Open the pager in an external window": ["Ouvrir le paginateur dans une fen\u00eatre externe"], "Close the pager": ["Fermer le paginateur"], "Jupyter Pager": ["Paginateur de Jupyter"], "go to cell start": ["aller au d\u00e9but de la cellule"], "go to cell end": ["aller \u00e0 la fin de la cellule"], "go one word left": ["se d\u00e9placer d'un mot vers la gauche"], "go one word right": ["Se d\u00e9placer d'un mot vers la droite"], "delete word before": ["supprimer le mot pr\u00e9c\u00e9dent"], "delete word after": ["supprimer le mot suivant"], "code completion or indent": ["compl\u00e9tion de code ou indentation"], "tooltip": ["info-bulle"], "indent": ["indenter"], "dedent": ["d\u00e9-indenter"], "select all": ["tout s\u00e9lectionner"], "undo": ["annuler"], "redo": ["refaire"], "Shift": ["Maj"], "Alt": ["Alt"], "Up": ["Haut"], "Down": ["Bas"], "Left": ["Gauche"], "Right": ["Droite"], "Tab": ["Tab"], "Caps Lock": ["Verr. Maj."], "Esc": ["Esc"], "Ctrl": ["Ctrl"], "Enter": ["Entr\u00e9e"], "Page Up": ["Page Pr\u00e9c."], "Page Down": ["Page Suiv."], "Home": ["Accueil"], "End": ["Fin"], "Space": ["Espace"], "Backspace": ["Retour arri\u00e8re"], "Minus": ["Moins"], "PageUp": ["PagePr\u00e9c."], "The Jupyter Notebook has two different keyboard input modes.": ["Le Notebook Jupyter offre deux modes de saisie claivier."], "<b>Edit mode</b> allows you to type code or text into a cell and is indicated by a green cell border.": ["<b>Mode \u00c9dition</b> permet de saisir du code ou du texte dans une cellule et se reconna\u00eet \u00e0 la bordure verte de la cellule."], "<b>Command mode</b> binds the keyboard to notebook level commands and is indicated by a grey cell border with a blue left margin.": ["<b>Mode Commande</b> d\u00e9clenche au clavier des actions au niveau du notebook et se reconna\u00eet \u00e0 la bordure grise de la cellule, avec une marge bleue sur la droite."], "Close": ["Fermer"], "Keyboard shortcuts": ["Raccourcis clavier"], "Command": ["Commande"], "Control": ["Contr\u00f4les"], "Option": ["Option"], "Return": ["Retour"], "Command Mode (press %s to enable)": ["Mode Commande (presser %s pour l'activer)"], "Edit Shortcuts": ["Modifier les Raccourcis Clavier"], "edit command-mode keyboard shortcuts": ["modifier les raccourcis clavier du mode commande"], "Edit Mode (press %s to enable)": ["Mode \u00c9dition (presser %s pour l'activer)"], "Autosave Failed!": ["\u00c9chec de la sauvegarde automatique !"], "Rename": ["Renommer"], "Enter a new notebook name:": ["Saisir le nouveau nom du notebook"], "Rename Notebook": ["Renommer le Notebook"], "Invalid notebook name. Notebook names must have 1 or more characters and can contain any characters except :/\\. Please enter a new notebook name:": ["Nom de notebook invalide. Les noms de notebooks doivent poss\u00e9der au moins un caract\u00e8re et peuvent contenir tous les caract\u00e8res sauf \u00ab /\\ \u00bb. Merci de saisir un nouveau nom de notebook :"], "Renaming...": ["Renommage en cours..."], "Unknown error": ["Erreur inconnue"], "no checkpoint": ["aucune sauvegarde"], "Last Checkpoint: %s": ["Derni\u00e8re Sauvegarde : %s"], "(unsaved changes)": ["(modifi\u00e9)"], "(autosaved)": ["(auto-sauvegard\u00e9)"], "Warning: too many matches (%d). Some changes might not be shown or applied.": ["Attention : trop de correspondances (%d). Certains changements peuvent ne pas \u00eatre affich\u00e9s ou appliqu\u00e9s."], "%d match": ["%d correspondance", "%d correspondances"], "More than 100 matches, aborting": ["Plus de 100 correspondances, annulation"], "Use regex (JavaScript regex syntax)": ["Utiliser des regex (syntaxe des regex JavaScript)"], "Replace in selected cells": ["Remplacer dans les cellules s\u00e9lectionn\u00e9es"], "Match case": ["Sensible \u00e0 la casse"], "Find": ["Rechercher"], "Replace": ["Remplacer"], "No matches, invalid or empty regular expression": ["Aucune correspondance trouv\u00e9e, expression r\u00e9guli\u00e8re vide ou invalide."], "Replace All": ["Tout Remplacer"], "Find and Replace": ["Rechercher et Remplacer"], "find and replace": ["rechercher et remplacer"], "Write raw LaTeX or other formats here, for use with nbconvert. It will not be rendered in the notebook. When passing through nbconvert, a Raw Cell's content is added to the output unmodified.": ["\u00c9crivez ici du code Latex brut ou d'autres formats, pour usage avec nbconvert. Il ne sera pas rendu dans le notebook. En utilisant nbconvert, le contenu d'une cellule brute est ajout\u00e9 tel-quel \u00e0 la sortie."], "Grow the tooltip vertically (press shift-tab twice)": ["Agrandir l'info-bulle verticallement (presser Maj-Tab deux fois)"], "show the current docstring in pager (press shift-tab 4 times)": ["montrer la cha\u00eene de documentation courante dans le paginateur (presser shift-tab 4 fois)"], "Open in Pager": ["Ouvrir dans le Paginateur"], "Tooltip will linger for 10 seconds while you type": ["L'info-bulle restera affich\u00e9e 10 secondes pendant votre saisie"], "Welcome to the Notebook Tour": ["Bienvenue dans la visite du Notebook"], "You can use the left and right arrow keys to go backwards and forwards.": ["Vous pouvez utiliser les touches gauche et droite pour continuer ou revenir en arri\u00e8re."], "Filename": ["Nom du fichier"], "Click here to change the filename for this notebook.": ["Cliquer ici pour changer le nom du fichier de ce notebook."], "Notebook Menubar": ["Barre de Menu du Notebook"], "The menubar has menus for actions on the notebook, its cells, and the kernel it communicates with.": ["La barre de menu a des menus pour les actions concernant le notebook, ses cellules, et le noyau avec lequel il communique."], "Notebook Toolbar": ["Barre d'outils du Notebook"], "The toolbar has buttons for the most common actions. Hover your mouse over each button for more information.": ["La barre d'outils a des boutons pour les actions les plus fr\u00e9quentes. Survoler les boutons \u00e0 la souris pour plus d'information."], "Mode Indicator": ["Indicateur de mode"], "The Notebook has two modes: Edit Mode and Command Mode. In this area, an indicator can appear to tell you which mode you are in.": ["Le Notebook offre deux modes : \u00c9dition et Commande. Dans cette zone, un indicateur peut vous indiquer dans quel mode vous \u00eates."], "Right now you are in Command Mode, and many keyboard shortcuts are available. In this mode, no icon is displayed in the indicator area.": ["Actuellement, vous \u00eates en mode Commande, et de nombreux raccourcis clavier sont disponibles. Dans ce mode, aucune ic\u00f4ne n'est affich\u00e9e dans la zone d'indication."], "Pressing <code>Enter</code> or clicking in the input text area of the cell switches to Edit Mode.": ["Presser <code>Entr\u00e9e</code> ou cliquer dans la zone de saisie de la cellule bascule vers le Mode \u00c9dition."], "Notice that the border around the currently active cell changed color. Typing will insert text into the currently active cell.": ["Notez que la bordure autour de la cellule active a chang\u00e9 de couleur. Saisir du texte au clavier l'ins\u00e9rera dans la cellule active."], "Back to Command Mode": ["Retourner au Mode Commande"], "Pressing <code>Esc</code> or clicking outside of the input text area takes you back to Command Mode.": ["Presser <code>Esc</code> ou cliquer en dehors de la zone de saisie de la cellule vous ram\u00e8ne au Mode Commande."], "Keyboard Shortcuts": ["Raccourcis Clavier"], "You can click here to get a list of all of the keyboard shortcuts.": ["Vous pouvez cliquer ici pour afficher une liste de tous les raccourcis clavier."], "Kernel Indicator": ["Indicateur de Noyau"], "This is the Kernel indicator. It looks like this when the Kernel is idle.": ["Ceci est l'indicateur de Noyau. Il a cet aspect quand le Noyau est inactif."], "The Kernel indicator looks like this when the Kernel is busy.": ["L'indicateur de Noyau a cet aspect quand le Noyau est actif."], "Interrupting the Kernel": ["Interrompre le Noyau"], "To cancel a computation in progress, you can click here.": ["Pour annuler une ex\u00e9cution en cours, vous pouvez cliquer ici."], "Notification Area": ["Zone de notification"], "Messages in response to user actions (Save, Interrupt, etc.) appear here.": ["Les messages en retour d'actions utilisateur (Enregistrement, Interruption, etc.) s'affichent ici."], "End of Tour": ["Fin de la visite"], "This concludes the Jupyter Notebook User Interface Tour.": ["C'est la fin de cette visite guid\u00e9e de l'Interface utilisateur du Notebook Jupyter."], "Edit Attachments": ["Modifier les Pi\u00e8ces-Jointes"], "Cell": ["Cellule"], "Edit Metadata": ["\u00c9diter les M\u00e9ta-Donn\u00e9es"], "Custom": ["Personnalis\u00e9"], "Set the MIME type of the raw cell:": ["D\u00e9finir le type MIME de la cellule en texte brut :"], "Raw Cell MIME Type": ["Type MIME de la Cellule en Texte Brut"], "Raw NBConvert Format": ["Format du Texte Brut"], "Raw Cell Format": ["Format de la Cellule Texte Brut"], "Slide": ["Diapo"], "Sub-Slide": ["Sous-Diapo"], "Fragment": ["Extrait"], "Skip": ["Sauter"], "Notes": ["Notes"], "Slide Type": ["Type de diapo"], "Slideshow": ["Diaporama"], "Add tag": ["Ajouter un mot-cl\u00e9"], "Edit the list of tags below. All whitespace is treated as tag separators.": ["Modifier la liste de mots-cl\u00e9s ci-dessous. Les espaces sont consid\u00e9r\u00e9s comme des s\u00e9parateurs."], "Edit the tags": ["Modifier les mots-cl\u00e9s"], "Edit Tags": ["Modifier Mots-Cl\u00e9s"], "Shutdown": ["Arr\u00eater"], "Create a new notebook with %s": ["Cr\u00e9er un nouveau notebook avec %s"], "An error occurred while creating a new notebook.": ["Une erreur s'est produite \u00e0 la cr\u00e9ation du notebook"], "Creating File Failed": ["La cr\u00e9ation du fichier a \u00e9chou\u00e9"], "An error occurred while creating a new file.": ["Une erreur est survenue \u00e0 la cr\u00e9ation du nouveau fichier."], "Creating Folder Failed": ["La cr\u00e9ation du r\u00e9pertoire a \u00e9chou\u00e9"], "An error occurred while creating a new folder.": ["Une erreur est survenue \u00e0 la cr\u00e9ation du nouveau r\u00e9pertoire."], "Failed to read file": ["\u00c9chec de lecture du fichier"], "Failed to read file %s": ["\u00c9chec de lecture du fichier %s"], "The file size is %d MB. Do you still want to upload it?": ["Le fichier p\u00e8se %d MB. \u00cates-vous certain de vouloir le t\u00e9l\u00e9verser ?"], "Large file size warning": ["Avertissement de taille de fichier \u00e9lev\u00e9e"], "Server error: ": ["Erreur serveur :"], "The notebook list is empty.": ["La liste des notebooks est vide."], "Click here to rename, delete, etc.": ["Cliquer ici pour renommer, supprimer, etc."], "Running": ["Actif"], "Enter a new file name:": ["Saisir le nom du nouveau fichier :"], "Enter a new directory name:": ["Saisir le nom du nouveau r\u00e9pertoire :"], "Enter a new name:": ["Saisir un nouveau nom :"], "Rename file": ["Renommer le fichier"], "Rename directory": ["Renommer le r\u00e9pertoire"], "Rename notebook": ["Renommer le notebook"], "Move": ["D\u00e9placer"], "An error occurred while renaming \"%1$s\" to \"%2$s\".": ["Une erreur s'est produite pendant le renommage de \u00ab\u00a0%1$s\u00a0\u00bb vers \u00ab\u00a0%2$s\u00a0\u00bb."], "Rename Failed": ["\u00c9chec du Renommage"], "Enter a new destination directory path for this item:": ["Saisir un nouveau chemin de destination pour cet \u00e9l\u00e9ment :", "Saisir un nouveau chemin de destination pour ces %d \u00e9l\u00e9ments :"], "Move an Item": ["D\u00e9placer un \u00e9l\u00e9ment", "D\u00e9placer %d \u00e9l\u00e9ments"], "An error occurred while moving \"%1$s\" from \"%2$s\" to \"%3$s\".": ["Une erreur s'est produite lors du d\u00e9placement de \u00ab\u00a0%1$s\u00a0\u00bb de \u00ab\u00a0%2$s\u00a0\u00bb vers \u00ab\u00a0%3$s\u00a0\u00bb."], "Move Failed": ["\u00c9chec du d\u00e9placement"], "Are you sure you want to permanently delete: \"%s\"?": ["\u00cates-vous certain de vouloir supprimer d\u00e9finitivement \u00ab\u00a0%s\u00a0 \u00bb ?", "\u00cates-vous certain de vouloir supprimer d\u00e9finitivement les \u00ab\u00a0%d\u00a0 \u00bb fichiers ou r\u00e9pertoires s\u00e9lectionn\u00e9s ?"], "An error occurred while deleting \"%s\".": ["Une erreur s'est produite pendant la suppression de \u00ab %s \u00bb."], "Delete Failed": ["\u00c9chec de la suppression"], "Are you sure you want to duplicate: \"%s\"?": ["\u00cates-vous certain de vouloir dupliquer \u00ab\u00a0%s\u00a0\u00bb ?", "\u00cates-vous certain de vouloir dupliquer les \u00ab\u00a0%d\u00a0\u00bb fichiers s\u00e9lectionn\u00e9s ?"], "Duplicate": ["Dupliquer"], "An error occurred while duplicating \"%s\".": ["Une erreur s'est produite pendant la duplication de \u00ab\u00a0%s\u00a0\u00bb."], "Duplicate Failed": ["\u00c9chec de la duplication"], "Upload": ["T\u00e9l\u00e9verser"], "Invalid file name": ["Nom de fichier invalide"], "File names must be at least one character and not start with a period": ["Les noms des fichier doivent compter au moins un caract\u00e8re et ne doivent pas commencer avec un point."], "Cannot upload invalid Notebook": ["Impossible de t\u00e9l\u00e9verser un Notebook invalide"], "There is already a file named \"%s\". Do you want to replace it?": ["Il y a d\u00e9j\u00e0 un fichier nomm\u00e9 \u00ab\u00a0%s\u00a0\u00bb. Souhaitez-vous le remplacer ?"], "Replace file": ["Remplacer le fichier"]}}};
+    document.documentElement.lang = navigator.language.toLowerCase();
+    </script>
+
+    
+    
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="services/contents" src="./requirements_files/contents.js.télécharger"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="custom/custom-preload" src="./requirements_files/custom-preload.js.télécharger"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="custom/custom" src="./requirements_files/custom.js.télécharger"></script></head>
+
+<body class="edit_app" data-base-url="/" data-file-path="Untitled%20Folder/untitled.txt" data-jupyter-api-token="d340517ef0dc678764a0abf3ebe73d07dbe5cbdbb0f31dff" dir="ltr">
+
+<noscript>
+    <div id='noscript'>
+      Jupyter Notebook requires JavaScript.<br>
+      Please enable it to proceed. 
+  </div>
+</noscript>
+
+<div id="header" role="navigation" aria-label="Top Menu" style="display: block;">
+  <div id="newsId" style="display: inline;">
+    
+    <div class="alert alert-info" role="alert">
+      <div style="display: flex">
+        <div>
+          <span class="label label-warning">UPDATE</span>
+          Read <a href="https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html" style="text-decoration: underline;" target="_blank">the migration plan</a> to Notebook 7 to learn about the new features and the actions to take if you are using extensions
+          -
+          Please note that updating to Notebook 7 might break some of your extensions.
+        </div>
+        <div style="margin-left: auto;">
+          <a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt" onclick="alert(&#39;This message will not be shown anymore.&#39;); return false;">
+            <button type="button" class="btn btn-default btn-xs" id="dontShowId">
+              Don't show anymore
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <div id="header-container" class="container">
+  <div id="ipython_notebook" class="nav navbar-brand"><a href="http://localhost:8889/tree?token=d340517ef0dc678764a0abf3ebe73d07dbe5cbdbb0f31dff" title="dashboard">
+      <img src="./requirements_files/logo.png" alt="Jupyter Notebook">
+  </a></div>
+
+  
+
+<span id="save_widget" class="pull-left save_widget">
+    <span class="filename">requirements.txt</span>
+    <div class="dirty-indicator-dirty" title="Unsaved changes"></div><span class="last_modified" title="sam. 25 mai 2024 16:06">il y a 2 minutes</span>
+</span>
+
+
+  
+
+  
+  
+  
+  
+
+    <span id="login_widget">
+      
+        <button id="logout" class="btn btn-sm navbar-btn">Logout</button>
+      
+    </span>
+
+  
+
+  
+  
+  </div>
+  <div class="header-bar"></div>
+
+  
+
+<div id="menubar-container" class="container">
+  <div id="menubar">
+    <div id="menus" class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+          <p class="navbar-text indicator_area">
+          <span id="current-mode" title="The current language is Plain Text">Plain Text</span>
+          </p>
+        <button type="button" class="btn btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <i class="fa fa-bars"></i>
+          <span class="navbar-text">Menu</span>
+        </button>
+        <ul class="nav navbar-nav navbar-right">
+          <li id="notification_area"><div id="notification_save" class="notification_widget btn btn-xs navbar-btn" style="display: none;"><span></span></div></li>
+        </ul>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" class="dropdown-toggle" data-toggle="dropdown">File</a>
+              <ul id="file-menu" class="dropdown-menu">
+                <li id="new-file"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">New</a></li>
+                <li id="save-file"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Save</a></li>
+                <li id="rename-file"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Rename</a></li>
+                <li id="download-file"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Download</a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" class="dropdown-toggle" data-toggle="dropdown">Edit</a>
+              <ul id="edit-menu" class="dropdown-menu">
+                <li id="menu-find"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Find</a></li>
+                <li id="menu-replace"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Find &amp; Replace</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Key Map</li>
+                <li id="menu-keymap-default" class="selected-keymap"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Default<i class="fa"></i></a></li>
+                <li id="menu-keymap-sublime"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Sublime Text<i class="fa"></i></a></li>
+                <li id="menu-keymap-vim"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Vim<i class="fa"></i></a></li>
+                <li id="menu-keymap-emacs"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">emacs<i class="fa"></i></a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" class="dropdown-toggle" data-toggle="dropdown">View</a>
+              <ul id="view-menu" class="dropdown-menu">
+              <li id="toggle_header" title="Show/Hide the logo and notebook title (above menu bar)">
+              <a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Toggle Header</a></li>
+              <li id="menu-line-numbers"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#">Toggle Line Numbers</a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" class="dropdown-toggle" data-toggle="dropdown">Language</a>
+              <ul id="mode-menu" class="dropdown-menu">
+              <li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to APL">APL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PGP">PGP</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to ASN.1">ASN.1</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Asterisk">Asterisk</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Brainfuck">Brainfuck</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to C">C</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to C++">C++</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Cobol">Cobol</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to C#">C#</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Clojure">Clojure</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to ClojureScript">ClojureScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Closure Stylesheets (GSS)">Closure Stylesheets (GSS)</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to CMake">CMake</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to CoffeeScript">CoffeeScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Common Lisp">Common Lisp</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Cypher">Cypher</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Cython">Cython</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Crystal">Crystal</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to CSS">CSS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to CQL">CQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to D">D</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Dart">Dart</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to diff">diff</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Django">Django</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Dockerfile">Dockerfile</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to DTD">DTD</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Dylan">Dylan</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to EBNF">EBNF</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to ECL">ECL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to edn">edn</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Eiffel">Eiffel</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Elm">Elm</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Embedded Javascript">Embedded Javascript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Embedded Ruby">Embedded Ruby</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Erlang">Erlang</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Esper">Esper</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Factor">Factor</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to FCL">FCL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Forth">Forth</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Fortran">Fortran</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to F#">F#</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Gas">Gas</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Gherkin">Gherkin</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to GitHub Flavored Markdown">GitHub Flavored Markdown</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Go">Go</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Groovy">Groovy</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to HAML">HAML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Haskell">Haskell</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Haskell (Literate)">Haskell (Literate)</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Haxe">Haxe</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to HXML">HXML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to ASP.NET">ASP.NET</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to HTML">HTML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to HTTP">HTTP</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to IDL">IDL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Pug">Pug</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Java">Java</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Java Server Pages">Java Server Pages</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to JavaScript">JavaScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to JSON">JSON</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to JSON-LD">JSON-LD</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to JSX">JSX</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Jinja2">Jinja2</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Julia">Julia</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Kotlin">Kotlin</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to LESS">LESS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to LiveScript">LiveScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Lua">Lua</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Markdown">Markdown</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to mIRC">mIRC</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to MariaDB SQL">MariaDB SQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Mathematica">Mathematica</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Modelica">Modelica</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to MUMPS">MUMPS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to MS SQL">MS SQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to mbox">mbox</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to MySQL">MySQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Nginx">Nginx</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to NSIS">NSIS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to NTriples">NTriples</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Objective-C">Objective-C</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Objective-C++">Objective-C++</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to OCaml">OCaml</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Octave">Octave</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Oz">Oz</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Pascal">Pascal</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PEG.js">PEG.js</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Perl">Perl</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PHP">PHP</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Pig">Pig</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Plain Text">Plain Text</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PLSQL">PLSQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PostgreSQL">PostgreSQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to PowerShell">PowerShell</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Properties files">Properties files</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to ProtoBuf">ProtoBuf</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Python">Python</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Puppet">Puppet</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Q">Q</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to R">R</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to reStructuredText">reStructuredText</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to RPM Changes">RPM Changes</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to RPM Spec">RPM Spec</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Ruby">Ruby</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Rust">Rust</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SAS">SAS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Sass">Sass</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Scala">Scala</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Scheme">Scheme</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SCSS">SCSS</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Shell">Shell</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Sieve">Sieve</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Slim">Slim</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Smalltalk">Smalltalk</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Smarty">Smarty</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Solr">Solr</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SML">SML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Soy">Soy</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SPARQL">SPARQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Spreadsheet">Spreadsheet</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SQL">SQL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SQLite">SQLite</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Squirrel">Squirrel</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Stylus">Stylus</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Swift">Swift</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to sTeX">sTeX</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to LaTeX">LaTeX</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to SystemVerilog">SystemVerilog</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Tcl">Tcl</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Textile">Textile</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TiddlyWiki">TiddlyWiki</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Tiki wiki">Tiki wiki</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TOML">TOML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Tornado">Tornado</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to troff">troff</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TTCN">TTCN</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TTCN_CFG">TTCN_CFG</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Turtle">Turtle</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TypeScript">TypeScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to TypeScript-JSX">TypeScript-JSX</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Twig">Twig</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Web IDL">Web IDL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to VB.NET">VB.NET</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to VBScript">VBScript</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Velocity">Velocity</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Verilog">Verilog</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to VHDL">VHDL</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Vue.js Component">Vue.js Component</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to XML">XML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to XQuery">XQuery</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Yacas">Yacas</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to YAML">YAML</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to Z80">Z80</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to mscgen">mscgen</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to xu">xu</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to msgenny">msgenny</a></li><li><a href="http://localhost:8889/edit/Untitled%20Folder/requirements.txt#" title="Set language to WebAssembly">WebAssembly</a></li></ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="lower-header-bar"></div>
+
+
+</div>
+
+<div id="site" style="display: block; height: 435.979px;">
+
+
+<div id="texteditor-backdrop">
+<div id="texteditor-container" class="container"><div class="CodeMirror cm-s-ipython CodeMirror-wrap" style="height: 395.969px;"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 73.5938px; left: 114.969px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-vscrollbar" tabindex="-1" cm-not-content="true"><div style="min-width: 1px; height: 0px;"></div></div><div class="CodeMirror-hscrollbar" tabindex="-1" cm-not-content="true"><div style="height: 100%; min-height: 1px; width: 0px;"></div></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 34px; margin-bottom: -15px; border-right-width: 35px; min-height: 96px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre class="CodeMirror-line-like">x</pre></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-cursors" style="visibility: hidden;"><div class="CodeMirror-cursor" style="left: 80.9688px; top: 68px; height: 17px;">&nbsp;</div></div><div class="CodeMirror-code" role="presentation" style=""><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -34px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">pandas==1.5.3</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -34px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">matplotlib==3.7.1</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -34px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">plotly==5.9.0</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -34px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">watermark==2.4.3</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -34px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 21px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">tabulate==0.8.10</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 35px; width: 1px; border-bottom: 0px solid transparent; top: 96px;"></div><div class="CodeMirror-gutters" style="height: 131px; left: 0px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 33px;"></div></div></div></div></div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+    
+
+
+<script src="./requirements_files/main.min.js.télécharger" type="text/javascript" charset="utf-8"></script>
+
+
+<script type="text/javascript">
+  function _remove_token_from_url() {
+    if (window.location.search.length <= 1) {
+      return;
+    }
+    var search_parameters = window.location.search.slice(1).split('&');
+    for (var i = 0; i < search_parameters.length; i++) {
+      if (search_parameters[i].split('=')[0] === 'token') {
+        // remote token from search parameters
+        search_parameters.splice(i, 1);
+        var new_search = '';
+        if (search_parameters.length) {
+          new_search = '?' + search_parameters.join('&');
+        }
+        var new_url = window.location.origin + 
+                      window.location.pathname + 
+                      new_search + 
+                      window.location.hash;
+        window.history.replaceState({}, "", new_url);
+        return;
+      }
+    }
+  }
+  _remove_token_from_url();
+  sys_info = {"notebook_version": "6.5.4", "notebook_path": "C:\\Users\\angke\\anaconda3\\Lib\\site-packages\\notebook", "commit_source": "", "commit_hash": "", "sys_version": "3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:38:37) [MSC v.1916 64 bit (AMD64)]", "sys_executable": "C:\\Users\\angke\\anaconda3\\python.exe", "sys_platform": "win32", "platform": "Windows-10-10.0.22631-SP0", "os_name": "nt", "default_encoding": "utf-8"};
+  document.addEventListener('DOMContentLoaded', function () {
+    const newsId = document.querySelector('#newsId');
+    const dontShowId = document.querySelector('#dontShowId');
+    const showNotebookNews = localStorage.getItem('showNotebookNews');
+    dontShowId.addEventListener('click', () => {
+      localStorage.setItem('showNotebookNews', false);
+      newsId.style.display = 'none';
+    });
+    if (!showNotebookNews) newsId.style.display = 'inline';
+  });
+</script>
+
+
+</body></html>
